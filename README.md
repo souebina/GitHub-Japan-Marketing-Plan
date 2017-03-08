@@ -1,2 +1,2 @@
-# GitHub-Japan-Marketing-Plan
-Draft Marketing Plan for GitHub Japan
+## GitHub-Japan-Marketing-Plan
+High Level Marketing Strategy for GitHub Japan cretated by ultra6lue(Rio)
