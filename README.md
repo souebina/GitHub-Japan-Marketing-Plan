@@ -1,4 +1,4 @@
-[GitHub-Japan-Marketing](./GitHub Japan Marketing Strategy.pptx)
+[GitHub-Japan-Marketing](https://github.com/souebina/GitHub-Japan-Marketing-Plan/blob/master/GitHub Japan Marketing Strategy.pptx)
 
 High Level Marketing Strategy for GitHub Japan created by ultra6lue.
 We would appreciate any comments or suggestions.Thank you!
